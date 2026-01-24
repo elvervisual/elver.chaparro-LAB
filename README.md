@@ -1,2 +1,2 @@
 # elver.chaparro-LAB
-Jardín digital orientado a la investigación en artes visuales y educación de la cultura visual 
+Jardín digital orientado a la investigación en artes visuales y educación
